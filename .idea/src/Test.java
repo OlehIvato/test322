@@ -2,11 +2,6 @@ public class Test {
 
 
     public static void main(String[] args) {
-        System.out.println("Hello еуіе");
-
-        System.out.println("SDASDAS");
-
-
-
+        System.out.println("Hellпмсoсм");
     }
 }
